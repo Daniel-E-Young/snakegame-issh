@@ -8,5 +8,6 @@ body,html {
 }
 
 .game-container {
+    position: relative;
     
 }
